@@ -49,7 +49,7 @@ export function Experiencia() {
       <section className="container my-4">
                 <div className="row">
                     <div className="col-4 card p-3">
-                    <img src="../../../../src/img/bases de datos.jpg" alt="" className='img-fluid'/> 
+                    <img src="../../../../src/img/bases de datos.webp" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
                         <div class="progress-bar barra3">40%</div> 
@@ -74,7 +74,7 @@ export function Experiencia() {
       <section className="container my-4">
                 <div className="row">
                     <div className="col-4 card p-3">
-                    <img src="../../../../src/img/bases de datos.jpg" alt="" className='img-fluid'/> 
+                    <img src="../../../../src/img/maquetacion html+css.jpeg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
                         <div class="progress-bar barra4">65%%</div> 
@@ -91,6 +91,78 @@ export function Experiencia() {
                             <li>Diseño Responsivo</li>
                             <li>Diseño con Flexbox </li>
                             <li> Animaciones y Transiciones</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+        <section className="container my-4">
+                <div className="row">
+                    <div className="col-4 card p-3">
+                    <img src="../../../../src/img/bases de datos.webp" alt="" className='img-fluid'/> 
+                    <br />
+                    <div class="progress" role="progressbar">
+                        <div class="progress-bar barra5">60%</div> 
+                    </div>
+                    
+                    </div>
+                    <div className="col-8 card p-3">
+                        <h2>Programacion con Js</h2>
+                        <ul>
+                          <br />
+                            <li>Sintaxis de JavaScript (variables, operadores, estructuras de control)</li>
+                            <li>Funciones y declaraciones</li>
+                            <li>Manipulación del DOM</li>
+                            <li>Uso básico de console.log para depuración</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+
+       <section className="container my-4">
+                <div className="row">
+                    <div className="col-4 card p-3">
+                    <img src="../../../../src/img/github.webp" alt="" className='img-fluid'/> 
+                    <br />
+                    <div class="progress" role="progressbar">
+                        <div class="progress-bar barra6">70%</div> 
+                    </div>
+                    
+                    </div>
+                    <div className="col-8 card p-3">
+                        <h2>Uso de GitHub</h2>
+                        <ul>
+                          <br />
+                            <li>Crear y configurar una cuenta de GitHub</li>
+                            <li>Crear un repositorio</li>
+                            <li>Clonar repositorios</li>
+                            <li>Hacer seguimiento de cambios </li>
+                            <li>Añadir archivos al área de preparación</li>
+                            <li>Confirmar cambios</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+
+      <section className="container my-4">
+                <div className="row">
+                    <div className="col-4 card p-3">
+                    <img src="../../../../src/img/react.jpg" alt="" className='img-fluid'/> 
+                    <br />
+                    <div class="progress" role="progressbar">
+                        <div class="progress-bar barra7">30%</div> 
+                    </div>
+                    
+                    </div>
+                    <div className="col-8 card p-3">
+                        <h2>React</h2>
+                        <ul>
+                          <br />
+                            <li>componentes</li>
+                            <li>jsx</li>
+                           
                         </ul>
                     </div>
                 </div>

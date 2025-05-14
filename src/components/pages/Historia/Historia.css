@@ -1,0 +1,15 @@
+.fondo{
+    background: #3F5EFB;
+    background: radial-gradient(circle,rgba(63, 94, 251, 1) 0%, rgba(124, 86, 205, 1) 32%, rgba(186, 78, 157, 1) 65%, rgba(252, 70, 107, 1) 100%);
+}
+.fondo img{
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center
+}
+.foto:hover{
+    border: 5px solid black;
+    transform: rotate(-30deg);
+}

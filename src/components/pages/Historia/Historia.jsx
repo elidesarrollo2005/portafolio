@@ -18,7 +18,7 @@ export function Historia(){
             <section className="container my-4">
                 <div className="row">
                     <div className="col-12 col-md-4">
-                        <img src="../../../../src/assets/img/img1.jpg" alt="" className='img-fluid'/>
+                        <img src="../../../../src/img/netflix.jpeg" alt="" className='img-fluid' />
                     </div>
                     <div className="col-12 col-md-8">
                         <h2>Proyecto Replica de Netflix</h2>
@@ -32,13 +32,14 @@ export function Historia(){
             <section className="container">
             <div className="row">
                     <div className="col-12 col-md-4">
-                       <h2>Base de Datos de la universidad CESDE</h2>
+                       <h2>Flexbox</h2>
                        <p>
-                        El proyecto Base de Datos de la Universidad CESDE fue diseñado con el objetivo de estructurar, organizar y optimizar la gestión de información académica dentro de un entorno educativo. A través del uso de un sistema de base de datos relacional, se implementaron tablas interconectadas para registrar datos clave como estudiantes, docentes, programas académicos, asignaturas y matrículas. Se aplicaron principios de normalización para evitar redundancias y asegurar la integridad de la información. Además, se utilizaron consultas SQL para extraer y gestionar información de manera eficiente, facilitando reportes personalizados y análisis de rendimiento académico. Este proyecto no solo permitió comprender la lógica detrás del diseño de bases de datos, sino también su aplicación práctica en contextos reales como el manejo institucional. La experiencia fortaleció habilidades técnicas en modelado entidad-relación, diseño lógico y físico, así como en la creación de respaldos y seguridad de la información. Fue una base sólida para comprender cómo funcionan los sistemas de información modernos
+                        Flexbox es un modelo de diseño en CSS que permite distribuir y alinear elementos dentro de un contenedor de forma eficiente, incluso cuando su tamaño es desconocido o dinámico. Permite controlar la dirección, el orden y el espacio entre los elementos, tanto en filas como en columnas. También facilita el centrado horizontal y vertical, la distribución automática del espacio disponible, el ajuste a múltiples líneas y la alineación individual de cada ítem, todo con pocas líneas de código.
+
                         </p>
                     </div>
-                    <div className="col-12 col-md-8 align-self-center">
-                       <img src="../../../../src/assets/img/img2.jpg" alt=""  className='img-fluid'/>
+                    <div className="col-12 col-md-4 align-self-center">
+                       <img src="../../../../src/img/flexbox-css.png" alt=""  className='img-fluid' />
                     </div>
                 </div>
             </section>
@@ -46,10 +47,10 @@ export function Historia(){
             <section className="container my-3">
             <div className="row">
                     <div className="col-12 col-md-4">
-                        <img src="../../../../src/assets/img/img3.jpg" alt="" className='img-fluid'/>
+                        <img src="../../../../src/img/maquetacion.webp" alt="" className='img-fluid'/>
                     </div>
                     <div className="col-12 col-md-8">
-                        <h2>Maquetacion Web</h2>
+                        <h2>Maquetacion con html y css</h2>
                         <p>
                         El proyecto de Maquetación Web tuvo como propósito principal aprender y aplicar las técnicas esenciales para estructurar visualmente sitios web utilizando HTML y CSS. Durante el desarrollo, se trabajó en la creación de diseños responsivos y organizados mediante el uso de contenedores, secciones, columnas y filas. Se emplearon herramientas como Flexbox y Grid para distribuir los elementos de manera eficiente en diferentes resoluciones de pantalla, asegurando una experiencia de usuario fluida tanto en dispositivos móviles como en escritorio. Además, se integraron imágenes, tipografías y paletas de colores siguiendo principios básicos de diseño visual. Este ejercicio permitió comprender cómo transformar un diseño visual o boceto en una estructura web funcional, separando claramente el contenido (HTML) de la presentación (CSS). También se exploraron conceptos como semántica web, accesibilidad y uso adecuado de etiquetas. En conjunto, la maquetación web se consolidó como una habilidad clave en la construcción de páginas modernas, intuitivas y estéticamente atractivas.
                         </p>
@@ -60,13 +61,13 @@ export function Historia(){
             <section className="container">
             <div className="row">
                     <div className="col-12 col-md-4">
-                    <h2>Proyecto Trello Conqistar a mi ex</h2>
+                    <h2>Bases de datos</h2>
                         <p>
-                        Durante el desarrollo de proyectos académicos y prácticos, se utilizó la herramienta Trello como apoyo clave dentro de las metodologías ágiles, especialmente en la aplicación del marco de trabajo Scrum. Trello permitió organizar tareas mediante tableros visuales divididos en columnas como Por hacer, En proceso y Finalizado, lo que facilitó el seguimiento del avance del equipo. Cada tarjeta representaba una tarea específica con descripciones, fechas de entrega y asignaciones claras. Esta herramienta mejoró la planificación, la comunicación y la colaboración, permitiendo reuniones diarias (Daily Scrum) más efectivas y una mejor gestión del tiempo. Además, Trello ayudó a identificar cuellos de botella, priorizar actividades y enfocarse en la entrega continua de valor. El uso de esta herramienta fortaleció competencias como la organización, la autonomía y la adaptabilidad, pilares fundamentales en entornos ágiles. Trello se consolidó como un recurso intuitivo y versátil para gestionar flujos de trabajo tanto individuales como en equipo.
+                        Una base de datos es un conjunto organizado de información estructurada que se almacena electrónicamente y puede ser gestionada, consultada y modificada de manera eficiente. Su propósito principal es facilitar el acceso rápido y seguro a grandes volúmenes de datos, permitiendo que múltiples usuarios trabajen con la información al mismo tiempo. Las bases de datos se utilizan en una amplia variedad de aplicaciones, desde sitios web y sistemas bancarios hasta plataformas empresariales. Para interactuar con ellas, se utilizan sistemas de gestión de bases de datos (DBMS), como MySQL, PostgreSQL o MongoDB, y lenguajes como SQL, que permiten realizar operaciones como insertar, actualizar, eliminar y consultar datos. Además, garantizan la integridad, consistencia y seguridad de la información, lo que las convierte en una herramienta esencial en el desarrollo de software y la gestión de datos.
                         </p>
                     </div>
-                    <div className="col-12 col-md-8 align-self-center">
-                       <img src="../../../../src/assets/img/img.4.jpg" alt="" className='img-fluid'/>
+                    <div className="col-12 col-md-4 align-self-center">
+                       <img src="../../../../src/img/bases de datos.webp" alt="" className='img-fluid'/>
                     </div>
                 </div>
             </section>
@@ -74,7 +75,7 @@ export function Historia(){
             <section className="container my-3">
             <div className="row">
                     <div className="col-12 col-md-4">
-                        <img src="../../../../src/assets/img/img5.jpg" alt="" className='img-fluid' />
+                        <img src="../../../../src/img/ahorro.jpg" alt="" className='img-fluid' />
                     </div>
                     <div className="col-12 col-md-8 align-self-center">
                     <h2>Ahorrando App</h2>
