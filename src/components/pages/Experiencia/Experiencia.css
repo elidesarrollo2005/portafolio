@@ -1,9 +1,11 @@
 .barra{
     width: 50%;
+    background-color: blueviolet
 
 }
 .barra2{
     width: 45%;
+    background-color: green;
     
 }
 .barra3{
@@ -12,17 +14,21 @@
 }
 .barra4{
     width: 65%;
+    background-color: salmon;
     
 }
 .barra5{
     width: 60%;
+    background-color: red;
     
 }
 .barra6{
     width: 70%;
+    background-color: orangered;
     
 }
 .barra7{
     width: 30%;
+    background-color: purple;
     
 }

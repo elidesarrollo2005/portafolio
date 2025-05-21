@@ -23,7 +23,7 @@ export function Menu() {
                                 <Link class="nav-link" to="/proyectos">Mis proyectos</Link>
                             </li>
                             <li class="nav-item">
-                                <Link class="nav-link disabled" aria-disabled="true" to="/experiencia">Mi experiencia</Link>
+                                <Link class="nav-link" aria-disabled="true" to="/experiencia">Mi experiencia</Link>
                             </li>
                         </ul>
                     </div>

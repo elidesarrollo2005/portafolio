@@ -14,11 +14,12 @@ export function Historia(){
                 </div>
              </div>
            </section>
-
+            
             <section className="container my-4">
                 <div className="row">
                     <div className="col-12 col-md-4">
                         <img src="../../../../src/img/netflix.jpeg" alt="" className='img-fluid' />
+                        <br />
                     </div>
                     <div className="col-12 col-md-8">
                         <h2>Proyecto Replica de Netflix</h2>
@@ -28,54 +29,59 @@ export function Historia(){
                     </div>
                 </div>
             </section>
-
+            <hr />
             <section className="container">
             <div className="row">
                     <div className="col-12 col-md-4">
-                       <h2>Flexbox</h2>
+                       <h2>Hoteles</h2>
                        <p>
-                        Flexbox es un modelo de diseño en CSS que permite distribuir y alinear elementos dentro de un contenedor de forma eficiente, incluso cuando su tamaño es desconocido o dinámico. Permite controlar la dirección, el orden y el espacio entre los elementos, tanto en filas como en columnas. También facilita el centrado horizontal y vertical, la distribución automática del espacio disponible, el ajuste a múltiples líneas y la alineación individual de cada ítem, todo con pocas líneas de código.
+                          El proyecto de Hoteles es una aplicación web diseñada para facilitar la búsqueda y reserva de alojamientos. Su interfaz intuitiva permite a los usuarios explorar diferentes opciones de hoteles, filtrar por ubicación, precio y comodidades, y realizar reservas en línea. Se implementaron formularios para la entrada de datos, como fechas de estancia y preferencias de habitación. Además, se utilizó almacenamiento local o bases de datos para garantizar la persistencia de la información del usuario. El diseño responsivo asegura que la aplicación sea accesible desde dispositivos móviles, brindando una experiencia fluida en cualquier plataforma. Este proyecto no solo es un ejercicio técnico, sino una herramienta funcional que mejora la experiencia del usuario al buscar y reservar hoteles.
 
                         </p>
                     </div>
                     <div className="col-12 col-md-4 align-self-center">
-                       <img src="../../../../src/img/flexbox-css.png" alt=""  className='img-fluid' />
+                       <img src="../../../../src/img/hoteles.jpg" alt=""  className='img-fluid' />
+                       <br />
                     </div>
                 </div>
             </section>
-
+            <hr />
             <section className="container my-3">
             <div className="row">
                     <div className="col-12 col-md-4">
-                        <img src="../../../../src/img/maquetacion.webp" alt="" className='img-fluid'/>
+                        <img src="../../../../src/img/biologia marina.jpg" alt="" className='img-fluid'/>
+                        <br />
                     </div>
                     <div className="col-12 col-md-8">
-                        <h2>Maquetacion con html y css</h2>
+                        <h2>Biologia Marina</h2>
                         <p>
-                        El proyecto de Maquetación Web tuvo como propósito principal aprender y aplicar las técnicas esenciales para estructurar visualmente sitios web utilizando HTML y CSS. Durante el desarrollo, se trabajó en la creación de diseños responsivos y organizados mediante el uso de contenedores, secciones, columnas y filas. Se emplearon herramientas como Flexbox y Grid para distribuir los elementos de manera eficiente en diferentes resoluciones de pantalla, asegurando una experiencia de usuario fluida tanto en dispositivos móviles como en escritorio. Además, se integraron imágenes, tipografías y paletas de colores siguiendo principios básicos de diseño visual. Este ejercicio permitió comprender cómo transformar un diseño visual o boceto en una estructura web funcional, separando claramente el contenido (HTML) de la presentación (CSS). También se exploraron conceptos como semántica web, accesibilidad y uso adecuado de etiquetas. En conjunto, la maquetación web se consolidó como una habilidad clave en la construcción de páginas modernas, intuitivas y estéticamente atractivas.
+                       Una página de biología marina es un sitio web diseñado para informar, educar y divulgar conocimientos sobre la vida en los océanos y mares. Su contenido suele incluir descripciones de especies marinas, ecosistemas acuáticos, procesos biológicos, investigaciones científicas, conservación del medio marino y el impacto humano en los océanos. Además, puede ofrecer recursos educativos, noticias sobre descubrimientos recientes, fotografías, videos y artículos especializados. Este tipo de página está dirigida tanto a estudiantes y profesionales como al público en general interesado en conocer y proteger la biodiversidad marina.
                         </p>
                     </div>
                 </div>
             </section>
-
+            <hr />
             <section className="container">
             <div className="row">
                     <div className="col-12 col-md-4">
-                    <h2>Bases de datos</h2>
+                    <h2>Biblioteca</h2>
                         <p>
-                        Una base de datos es un conjunto organizado de información estructurada que se almacena electrónicamente y puede ser gestionada, consultada y modificada de manera eficiente. Su propósito principal es facilitar el acceso rápido y seguro a grandes volúmenes de datos, permitiendo que múltiples usuarios trabajen con la información al mismo tiempo. Las bases de datos se utilizan en una amplia variedad de aplicaciones, desde sitios web y sistemas bancarios hasta plataformas empresariales. Para interactuar con ellas, se utilizan sistemas de gestión de bases de datos (DBMS), como MySQL, PostgreSQL o MongoDB, y lenguajes como SQL, que permiten realizar operaciones como insertar, actualizar, eliminar y consultar datos. Además, garantizan la integridad, consistencia y seguridad de la información, lo que las convierte en una herramienta esencial en el desarrollo de software y la gestión de datos.
+                        Es un proyeto de bases de datos que permite gestionar una biblioteca, facilitando el registro, consulta y administración de libros, autores y usuarios. La interfaz es intuitiva y permite realizar búsquedas rápidas, agregar nuevos libros y gestionar préstamos. Se implementaron formularios para la entrada de datos y se utilizó almacenamiento local o bases de datos para garantizar la persistencia de la información. El diseño responsivo asegura su uso en dispositivos móviles, brindando acceso a la información desde cualquier lugar. Este proyecto no solo es un ejercicio técnico, sino una herramienta funcional que mejora la gestión bibliotecaria.
                         </p>
                     </div>
                     <div className="col-12 col-md-4 align-self-center">
                        <img src="../../../../src/img/bases de datos.webp" alt="" className='img-fluid'/>
+                       <br />
                     </div>
                 </div>
             </section>
+            <hr />
 
             <section className="container my-3">
             <div className="row">
                     <div className="col-12 col-md-4">
                         <img src="../../../../src/img/ahorro.jpg" alt="" className='img-fluid' />
+                        <br />
                     </div>
                     <div className="col-12 col-md-8 align-self-center">
                     <h2>Ahorrando App</h2>
